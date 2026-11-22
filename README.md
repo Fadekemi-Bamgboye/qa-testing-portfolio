@@ -12,9 +12,9 @@ A member enters a monthly pension contribution. The requirements are:
 
 | Document | What it shows |
 |---|---|
-| [Requirements review](requirements-review.pdf) | Gaps and ambiguities found in the requirements, each with problem, impact, question for the business analyst and priority |
-| [Test cases](test-cases.pdf) | 9 test cases using boundary value analysis and invalid-input tests, with results and links to Jira tickets |
-| [Jira screenshots](jira-screenshots.pdf) | Kanban board, bug reports and requirement review tickets |
+| [Requirements review](Requirements-review.pdf) | Gaps and ambiguities found in the requirements, each with problem, impact, question for the business analyst and priority |
+| [Test cases](Test-Cases.pdf) | 9 test cases using boundary value analysis and invalid-input tests, with results and links to Jira tickets |
+| [Jira screenshots](Kanban-Board.pdf) | Kanban board, bug reports and requirement review tickets |
 
 ## What I did
 - **Reviewed requirements (static testing):** found gaps such as undefined behaviour for decimals (£50.50), blank and non-numeric input, existing contributions, and save failures, then prioritised them High, Medium or Low.
